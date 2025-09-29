@@ -12,3 +12,6 @@ git status
 git add . (Adds all files in the current directory with changes to the staging area)
 git add <file_name> (Adds a specific file to the staging area)
 
+git commit -m "Initial commit" (Creates a new commit with a message)
+
+git push origin <branch_name>(Pushes the committed changes to the 'main' branch of the remote repository)

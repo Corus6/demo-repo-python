@@ -1,0 +1,11 @@
+This is a test file.
+It contains multiple lines.
+This is the third line.['this', 1, 2, 5]
+{'name': 'John', 'age': 30}
+
+This is an appended line.This is a test file.
+It contains multiple lines.
+This is the third line.['this', 1, 2, 5]
+{'name': 'John', 'age': 30}
+
+This is an inserted line.
